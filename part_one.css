@@ -1,0 +1,27 @@
+ .firstDiv {
+    color: rgb(49, 116, 5);
+    border-color: black;
+    border-width: thick;
+    border-style: double;
+ }
+ .secondDiv{
+    color: rgb(12, 23, 177);
+ }
+ .Hire {
+    color: rgb(24, 8, 94);
+    
+    margin-left: 100px;
+ }
+
+ #slogan{
+    color: rgb(89, 12, 134);
+    text-decoration: line-through;
+ }
+ body{
+    background-color: chocolate;
+    
+ }
+ #search{
+    color: aqua;
+    text-decoration: wavy;
+ }
